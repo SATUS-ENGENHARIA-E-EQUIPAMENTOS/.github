@@ -1,3 +1,10 @@
+---
+name: Bug Report
+about: Use este formulário para reportar um erro, falha ou comportamento inesperado.
+title: "[BUG] Descrição concisa do problema"
+labels: [bug]
+---
+
 # Bug Report
 
 Use este formulário para reportar um erro, falha ou comportamento inesperado.
