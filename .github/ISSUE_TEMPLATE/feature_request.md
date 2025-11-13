@@ -2,7 +2,7 @@
 name: Feature Request
 description: Use este formulário para sugerir uma nova funcionalidade ou melhoria.
 title: "[FEATURE] Descrição concisa da proposta"
-labels: "enhancement"
+labels: [enhancement]
 ---
 
 # Feature Request
