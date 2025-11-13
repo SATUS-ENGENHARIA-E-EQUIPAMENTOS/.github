@@ -42,8 +42,3 @@ Exemplo: “Alterar a função `X` para validar `Y` antes de salvar.”
 ### Logs e Screenshots (opcional)
 Anexe logs de erro, capturas de tela, vídeos ou links que forneçam mais contexto.  
 Você pode copiar e colar textos e/ou imagens diretamente aqui.
-
----
-
-**Labels:** `bug`  
-**Título sugerido:** `[BUG] Descrição concisa do problema`
